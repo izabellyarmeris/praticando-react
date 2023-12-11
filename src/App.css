@@ -1,0 +1,27 @@
+body{
+   background-color: dimgray;
+   background-repeat:no-repeat ;
+   background-size: cover;
+   
+}
+.main{
+    display: flex;
+    justify-content: center;
+    height: 60vh;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+width: 30%;
+background-color: rgb(135, 163, 184);
+margin: 0 auto;
+margin-top: 20vh ;
+border-radius: 25px;
+
+
+}
+.resultados{
+    display: flex;
+    flex-direction: column; 
+    height: 300px;
+    gap: 10px;
+}
